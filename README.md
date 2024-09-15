@@ -1,3 +1,1 @@
-# Shreyash Developer Portfolio
-
-<!-- ![Logo](./assets/site-img.png) -->
+# Shreyash Data Scientist portfolio
